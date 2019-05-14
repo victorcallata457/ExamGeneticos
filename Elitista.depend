@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1557868468 source:f:\lab de ia\elitista\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+
